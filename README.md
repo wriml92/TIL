@@ -1,6 +1,6 @@
 # TIL
 
-- Recent TIL : [AWS + Nginx로 애플리케이션 배포하기](https://github.com/wriml92/TIL/blob/main/2025.01/250125.md)
+- Recent TIL : [Docker + AWS로 애플리케이션 배포하기](https://github.com/wriml92/TIL/blob/main/2025.01/250126.md)
 - [2025.01](https://github.com/wriml92/TIL/tree/main/2025.01)
 - [2024.12](https://github.com/wriml92/TIL/tree/main/2024.12)
 - [2024.11](https://github.com/wriml92/TIL/tree/main/2024.11)
