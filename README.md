@@ -1,6 +1,6 @@
 # TIL
 
-- Recent TIL : [Google OAuth 2.0](https://github.com/wriml92/TIL/blob/main/2025.01/250128.md)
+- Recent TIL : [django-allauth](https://github.com/wriml92/TIL/blob/main/2025.01/250129.md)
 - [2025.01](https://github.com/wriml92/TIL/tree/main/2025.01)
 - [2024.12](https://github.com/wriml92/TIL/tree/main/2024.12)
 - [2024.11](https://github.com/wriml92/TIL/tree/main/2024.11)
