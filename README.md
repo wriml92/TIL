@@ -1,6 +1,6 @@
 # TIL
 
-- Recent TIL : [Gradio](https://github.com/wriml92/TIL/blob/main/2025.02/250220.md)
+- Recent TIL : [Kubernetes](https://github.com/wriml92/TIL/blob/main/2025.02/250221.md)
 - [2025.02](https://github.com/wriml92/TIL/tree/main/2025.02)
 - [2025.01](https://github.com/wriml92/TIL/tree/main/2025.01)
 - [2024.12](https://github.com/wriml92/TIL/tree/main/2024.12)
