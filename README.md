@@ -1,6 +1,6 @@
 # TIL
 
-- Recent TIL : [애자일 방법론](https://github.com/wriml92/TIL/blob/main/2025.02/250225.md)
+- Recent TIL : [ASCII 코드](https://github.com/wriml92/TIL/blob/main/2025.02/250226.md)
 - [2025.02](https://github.com/wriml92/TIL/tree/main/2025.02)
 - [2025.01](https://github.com/wriml92/TIL/tree/main/2025.01)
 - [2024.12](https://github.com/wriml92/TIL/tree/main/2024.12)
