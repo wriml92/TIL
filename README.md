@@ -1,6 +1,6 @@
 # TIL
 
-- Recent TIL : [클래스 (Class)](https://github.com/wriml92/TIL/blob/main/2025.03/250305.md)
+- Recent TIL : [럼바우(Rumbaugh) 객체지향 분석 기법](https://github.com/wriml92/TIL/blob/main/2025.03/250306.md)
 - [2025.03](https://github.com/wriml92/TIL/tree/main/2025.03)
 - [2025.02](https://github.com/wriml92/TIL/tree/main/2025.02)
 - [2025.01](https://github.com/wriml92/TIL/tree/main/2025.01)
